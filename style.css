@@ -1,0 +1,23 @@
+body{
+  background-color: lightskyblue
+}
+
+
+
+button {
+  background-color:cornflowerblue;
+  border:none;
+  color:white;
+  padding: 15px 26px;
+  text-align:center;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 4px;
+  transition-duration: .4s;
+}
+
+button:hover {
+  background-color:plum;
+  color:white;
+  border:1px solid steelblue;
+}
